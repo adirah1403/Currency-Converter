@@ -1,4 +1,5 @@
 Project Description
+
 The Currency Converter is a web-based application designed to help users convert amounts from one currency to another with real-time exchange rates. This project leverages modern web technologies to provide a seamless and user-friendly experience.
 
 
